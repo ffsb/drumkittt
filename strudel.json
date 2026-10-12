@@ -1,0 +1,19 @@
+{"808s":["/808s/808 1.wav","/808s/808 2.wav","/808s/808 3.wav","/808s/808 4.wav","/808s/808 5.wav","/808s/808 6.wav","/808s/80Wrote json to /Users/daryl/Desktop/untitled__folder/₿/wegonebeok FALL KIT/strudel.json
+ _____________________________
+< welcome to @strudel/sampler >
+ -----------------------------
+        \   ^__^
+         \  (oO)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+@strudel/sampler is now serving audio files from:
+ /Users/daryl/Desktop/untitled__folder/₿/wegonebeok FALL KIT
+
+To use them in the Strudel REPL, run:
+ samples('http://localhost:5432')
+
+Or on a machine in the same network:
+ samples('http://192.168.4.28:5432')
+
+n hats/open hat 6.wav","/open hats/open hat 7.wav"],"snares":["/snares/snare 1.wav","/snares/snare 2.wav","/snares/snare 3.wav","/snares/snare 4.wav","/snares/snare 5.wav"]}
